@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="./assets/lunifyit-logo.png" alt="Lunify.it" width="160" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=header&animation=fadeIn" alt="Banner" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=720&lines=Nowoczesne+aplikacje+webowe+i+mobilne;MVP+%E2%86%92+skalowalne+platformy;UX%2FUI%2C+Development%2C+Wdro%C5%BCenia%2C+Utrzymanie" alt="Typing" />
 </p>
 
